@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Eazybank accounts related PRODUCTION APIs"
+  message: "Welcome to the Eazybank accounts related PROD APIs"
   contactDetails:
     name: "AjitKumar-PROD Lead"
     email: "ajitkumar@eazybank.com"
