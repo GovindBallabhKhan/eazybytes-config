@@ -7,7 +7,7 @@ accounts:
   message: "Welcome to the Eazybank accounts related PROD APIs"
   contactDetails:
     name: "AjitKumar-PROD Lead"
-    email: "ajitkumar@eazybank.com"
+    email: "{cipher}2ed8e9cfa38096315c6405b841bd42a437f9fe53114823a1cce2229bc3104a6ed4ee7994d2add56815f69141f6ef6ea6"
   onCallSupport:
     - 9039456100
     - 9811939167
