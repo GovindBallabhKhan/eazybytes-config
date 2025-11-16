@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to the Eazybank accounts related QA APIs"
+  contactDetails:
+    name: "AjitKumar-QA Lead"
+    email: "ajitkumar@eazybank.com"
+  onCallSupport:
+    - 9039456100
+    - 9811939167

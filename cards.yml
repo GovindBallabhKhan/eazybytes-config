@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the Eazybank accounts related local APIs"
+  contactDetails:
+    name: "Govindkhan-developer"
+    email: "govindkhan@eazybank.com"
+  onCallSupport:
+    - 9039456100
+    - 9811939167
