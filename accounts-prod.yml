@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Eazybank accounts related PROD APIs"
+  message: "Welcome to the Eazybank accounts related PRODUCTION APIs"
   contactDetails:
     name: "AjitKumar-PROD Lead"
     email: "{cipher}22e79fa7a8cd835a97d81bf440244bd990153f02ce1353304295a08e67b1ca5ebd80ee1981e2a0d48ab8edc94d7234e9"
